@@ -12018,7 +12018,7 @@ header {
 }
 .header-left,
 header::after {
-  background-color: red;
+  background-color: #ff0000;
 }
 .banner,
 header {
@@ -12414,6 +12414,7 @@ section.batch-details .batch-details-content p {
   }
   .banner .banner-right {
     padding: 46px 27px 30px;
+    margin-right: -3rem !important;
   }
   .banner .banner-right .banner-form-btn,
   p.success-stories-content,
