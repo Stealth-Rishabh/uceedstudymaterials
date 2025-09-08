@@ -3542,7 +3542,7 @@ section.entrance_exam {
 @media (max-width: 768px) {
   .body_exam {
     height: 500px;
-    display: none;
+    display: block;
   }
 
   .courses-slider_exam {
